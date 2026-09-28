@@ -1,0 +1,5 @@
+# Scripts Windows : fins de ligne CRLF obligatoires (un .bat en LF peut mal s'exécuter).
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.md  text eol=lf
